@@ -1,0 +1,6 @@
+JavaScript Execution Context:
+
+There are three type of execution Context
+1. Global Execution Context
+2. Functional Execution Context
+3. Eval Execution Context
